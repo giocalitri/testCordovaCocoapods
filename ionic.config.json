@@ -1,0 +1,7 @@
+{
+  "name": "testCordovaCocoapods",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
