@@ -46,6 +46,7 @@
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
+    "cordova-support-android-plugin": "^1.0.2",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~5.0.0",
@@ -73,7 +74,8 @@
         "ANALYTICS_COLLECTION_ENABLED": "true",
         "AUTOMATIC_SCREEN_REPORTING_ENABLED": "true",
         "IOS_FIREBASE_ANALYTICS_VERSION": "~> 7.0.0"
-      }
+      },
+      "cordova-support-android-plugin": {}
     },
     "platforms": [
       "ios"
